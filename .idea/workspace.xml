@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a35725ba-fcb2-466b-8319-9fa90c90a9c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../JSP_InvoiceManager/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JSP_InvoiceManager/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JSP_InvoiceManager/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JSP_InvoiceManager/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JSP_InvoiceManager/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JSP_InvoiceManager/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JSP_InvoiceManager/JSP_InvoiceManager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JSP_InvoiceManager/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JVM_zadania/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SPRING/library/src/main/java/com/javagda25/spring/library/controller/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SPRING/library/src/main/resources/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SPRING/library/src/main/resources/templates/fragments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SPRING/library/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/Hairdresser/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/Hairdresser/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/Hairdresser/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/Hairdresser/src/main/java/com/javagda25/Hairdresser/Appointment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/Hairdresser/src/main/java/com/javagda25/Hairdresser/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/Hairdresser/src/main/java/com/javagda25/Hairdresser/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/Hairdresser/src/main/java/com/javagda25/Hairdresser/Saloon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/Hairdresser/src/main/java/com/javagda25/Hairdresser/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/NBP_Gold_API/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/NBP_Gold_API/src/main/java/com/javagda25/NBP_Gold_API/GoldTypeAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/NBP_Gold_API/src/main/java/com/javagda25/NBP_Gold_API/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/NBP_Gold_API/src/main/java/com/javagda25/NBP_Gold_API/NBPGoldApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/NBP_Gold_API/src/main/java/com/javagda25/NBP_Gold_API/NBPUrlBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/NBP_Gold_API/src/main/java/com/javagda25/NBP_Gold_API/ScannerContentLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/NBP_Gold_API/src/main/java/com/javagda25/NBP_Gold_API/model/models_dates/NBPGoldDates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/NBP_Gold_API/src/main/java/com/javagda25/NBP_Gold_API/model/models_from_api/NBPGoldElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/NBPapi/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/NBPapi/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/NBPapi/src/main/java/Calculations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/NBPapi/src/main/java/CurrencyCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/NBPapi/src/main/java/DataFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/NBPapi/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/NBPapi/src/main/java/model/ExchangeRatesSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/NBPapi/src/main/java/model/Rate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/OpenWeatherApi/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/OpenWeatherApi/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/OpenWeatherApi/src/main/java/com/javagda25/openweather/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/OpenWeatherApi/src/main/java/com/javagda25/openweather/model/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/OpenWeatherApi/src/main/java/com/javagda25/openweather/model/Clouds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/OpenWeatherApi/src/main/java/com/javagda25/openweather/model/Coord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/OpenWeatherApi/src/main/java/com/javagda25/openweather/model/Current.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/OpenWeatherApi/src/main/java/com/javagda25/openweather/model/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/OpenWeatherApi/src/main/java/com/javagda25/openweather/model/Humidity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/OpenWeatherApi/src/main/java/com/javagda25/openweather/model/LastUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/OpenWeatherApi/src/main/java/com/javagda25/openweather/model/Precipitation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/OpenWeatherApi/src/main/java/com/javagda25/openweather/model/Pressure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/OpenWeatherApi/src/main/java/com/javagda25/openweather/model/Speed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/OpenWeatherApi/src/main/java/com/javagda25/openweather/model/Sun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/OpenWeatherApi/src/main/java/com/javagda25/openweather/model/Temperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/OpenWeatherApi/src/main/java/com/javagda25/openweather/model/Visibility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/OpenWeatherApi/src/main/java/com/javagda25/openweather/model/Weather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/OpenWeatherApi/src/main/java/com/javagda25/openweather/model/Wind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/RecipePuppy_Api/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/RecipePuppy_Api/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/RecipePuppy_Api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/RecipePuppy_Api/src/main/java/com/javagda25/RecipePuppy_Api/APIRecipeBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/RecipePuppy_Api/src/main/java/com/javagda25/RecipePuppy_Api/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/RecipePuppy_Api/src/main/java/com/javagda25/RecipePuppy_Api/RecipeAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/RecipePuppy_Api/src/main/java/com/javagda25/RecipePuppy_Api/ScannerContentLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/RecipePuppy_Api/src/main/java/com/javagda25/RecipePuppy_Api/model/models_from_api/RecipeResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/RecipePuppy_Api/src/main/java/com/javagda25/RecipePuppy_Api/model/models_from_api/RecipeTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/RecipePuppy_Api/src/main/java/com/javagda25/RecipePuppy_Api/model/models_used_to_create_URL/IngredientsEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/TriviaApi/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/TriviaApi/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/TriviaApi/src/main/java/com/javagda25/triviaapi/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/Trivia_api/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/Trivia_api/src/main/java/com/javagda25/Trivia_api/APITriviaBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/Trivia_api/src/main/java/com/javagda25/Trivia_api/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/Trivia_api/src/main/java/com/javagda25/Trivia_api/ScannerContentLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/Trivia_api/src/main/java/com/javagda25/Trivia_api/TriviaAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/design_patterns/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/design_patterns/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/design_patterns/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/design_patterns/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/design_patterns/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/design_patterns/design_patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/design_patterns/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/jsons/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/jsons/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/jsons/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/jsons/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/jsons/src/main/java/Sraka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/jsons/src/main/java/jsons/zad1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/jsons/src/main/java/jsons/zad1/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/jsons/src/main/java/jsons/zad1/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/jsons/src/main/java/jsons/zad1/Zad1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/jsons/src/main/java/jsons/zad2/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/jsons/src/main/java/jsons/zad2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/jsons/src/main/java/jsons/zad2/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/jsons/src/main/java/jsons/zad2/Track.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/jsons/src/main/java/jsons/zad2/Zad2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/jsons/src/main/java/jsons/zad3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/jsons/src/main/java/jsons/zad3/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/jsons/src/main/java/jsons/zad3/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/jsons/src/main/java/jsons/zad3/Zad3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/jsons/src/main/java/jsons/zad4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/jsons/src/main/java/jsons/zad4/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/jsons/src/main/java/jsons/zad4/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/jsons/src/main/java/jsons/zad4/Zad4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/jsons/src/main/java/jsons/zad5/AbstractShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/jsons/src/main/java/jsons/zad5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/jsons/src/main/java/jsons/zad5/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/jsons/src/main/java/jsons/zad5/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/jsons/src/main/java/jsons/zad5/Zad5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/manager_zadan/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testing/src/main/java/com/javagda25/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testing/src/main/java/com/javagda25/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testing/src/test/java/com/javagda25/CalculatorTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/calculus_config.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/data/input_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/observer_observable/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/observer_observable/example/NewsStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/observer_observable/example/Watcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/observer_observable/zad2/v1/ChatRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/observer_observable/zad2/v1/InternetPortal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/observer_observable/zad2/v1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/observer_observable/zad2/v1/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/observer_observable/zad2/v2/ChatRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/observer_observable/zad2/v2/InternetPortal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/observer_observable/zad2/v2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/observer_observable/zad2/v2/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/strategy/example/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/strategy/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/strategy/example/strategie/IStrategia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/strategy/example/strategie/StrategiaWalkiMieczem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/strategy/example/strategie/StrategiaWalkiUkiem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/strategy/zad0/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/strategy/zad0/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/strategy/zad0/interfaces/FormatterInverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/strategy/zad0/interfaces/FormatterLower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/strategy/zad0/interfaces/FormatterSplitter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/strategy/zad0/interfaces/FormatterTrim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/strategy/zad0/interfaces/FormatterUpper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/strategy/zad0/interfaces/IFormatterCzcionki.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/strategy/zad1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/strategy/zad1/CombustionEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/strategy/zad1/ElectricEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/strategy/zad1/HybridEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/strategy/zad1/IDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/strategy/zad1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/strategy/zad3/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/strategy/zad3/EcoMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/strategy/zad3/IDriveMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/strategy/zad3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/strategy/zad3/NormalMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/behavioral/strategy/zad3/TurboMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/creational/design_patern_abstract_factory/zad1/AbstractPC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/creational/design_patern_abstract_factory/zad1/AppleMac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/creational/design_patern_abstract_factory/zad1/AsusPC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/creational/design_patern_abstract_factory/zad1/ComputerBrand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/creational/design_patern_abstract_factory/zad1/ComputerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/creational/design_patern_abstract_factory/zad1/HpPC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/creational/design_patern_abstract_factory/zad1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/creational/design_patern_abstract_factory/zad1/SamsungPC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/creational/design_patern_abstract_factory/zad2/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/creational/design_patern_abstract_factory/zad2/BikeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/creational/design_patern_abstract_factory/zad2/BikeType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/creational/design_patern_abstract_factory/zad2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/creational/design_pattern_builder/zad1/GameCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/creational/design_pattern_builder/zad1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/creational/design_pattern_builder/zad2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/creational/design_pattern_builder/zad2/Stamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/creational/design_pattern_builder/zad3/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/creational/design_pattern_builder/zad3/Mail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/creational/design_pattern_builder/zad3/MailServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/creational/design_pattern_builder/zad3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/creational/design_pattern_builder/zad3/MessageType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/creational/design_pattern_singleton/example_v1/ConfigFileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/creational/design_pattern_singleton/example_v1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/creational/design_pattern_singleton/example_v2/ConfigFileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/creational/design_pattern_singleton/example_v2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/creational/design_pattern_singleton/example_v3/ConfigFileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/creational/design_pattern_singleton/example_v3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/creational/design_pattern_singleton/example_v4/ConfigFileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/creational/design_pattern_singleton/example_v4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/creational/design_pattern_singleton/zad2/FileLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/creational/design_pattern_singleton/zad2/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/creational/design_pattern_singleton/zad2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/creational/design_pattern_singleton/zad2/MySettings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/creational/design_pattern_singleton/zad2/Round.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/structural/adapter/example/IElementDomuInteligentnego.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/structural/adapter/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/structural/adapter/example/dom_inteligentny/Czajnik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/structural/adapter/example/dom_inteligentny/CzajnikAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/structural/adapter/example/dom_inteligentny/Lodowka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/structural/adapter/example/dom_inteligentny/LodowkaAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/structural/adapter/example/dom_inteligentny/Swiatlo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/structural/adapter/example/dom_inteligentny/SwiatloAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/structural/adapter/zad_3/Flight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/structural/adapter/zad_3/FlightProvider_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/structural/adapter/zad_3/FlightProvider_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/structural/adapter/zad_3/FlightProvider_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/structural/adapter/zad_3/FlightRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/structural/adapter/zad_3/IFlightStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/structural/adapter/zad_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/structural/decorator/exampleHero/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/structural/decorator/exampleHero/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/structural/decorator/zad2/CustomPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/structural/decorator/zad2/IPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/structural/decorator/zad2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/structural/decorator/zad2/Pizzeria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/structural/decorator/zad2/SimplePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/structural/decorator/zad4/Carriage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/structural/decorator/zad4/CarriageType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/structural/decorator/zad4/CustomTrain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/structural/decorator/zad4/ITrain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/structural/decorator/zad4/Train.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/structural/decorator/zad5/DecoratedChristmasTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/structural/decorator/zad5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/com/javagda25/design_patterns/structural/decorator/zad5/SimpleChristmasTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/design_patterns_behavioral.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/observer_observable/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/observer_observable/example/NewsStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/observer_observable/example/Watcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/observer_observable/zad2/v1/ChatRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/observer_observable/zad2/v1/InternetPortal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/observer_observable/zad2/v1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/observer_observable/zad2/v1/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/observer_observable/zad2/v2/ChatRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/observer_observable/zad2/v2/InternetPortal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/observer_observable/zad2/v2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/observer_observable/zad2/v2/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/strategy/example/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/strategy/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/strategy/example/strategie/IStrategia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/strategy/example/strategie/StrategiaWalkiMieczem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/strategy/example/strategie/StrategiaWalkiUkiem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/strategy/zad0/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/strategy/zad0/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/strategy/zad0/interfaces/FormatterInverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/strategy/zad0/interfaces/FormatterLower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/strategy/zad0/interfaces/FormatterSplitter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/strategy/zad0/interfaces/FormatterTrim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/strategy/zad0/interfaces/FormatterUpper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/strategy/zad0/interfaces/IFormatterCzcionki.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/strategy/zad1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/strategy/zad1/CombustionEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/strategy/zad1/ElectricEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/strategy/zad1/HybridEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/strategy/zad1/IDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/strategy/zad1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/strategy/zad3/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/strategy/zad3/EcoMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/strategy/zad3/IDriveMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/strategy/zad3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/strategy/zad3/NormalMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_behavioral/src/main/java/strategy/zad3/TurboMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_creational/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_creational/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_creational/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_creational/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_creational/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_creational/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_creational/design_patterns_creational.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_creational/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_creational/src/main/java/design_pattern_builder/zad1/GameCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_creational/src/main/java/design_pattern_builder/zad1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_creational/src/main/java/design_pattern_builder/zad2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_creational/src/main/java/design_pattern_builder/zad2/Stamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_creational/src/main/java/design_pattern_builder/zad3/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_creational/src/main/java/design_pattern_builder/zad3/Mail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_creational/src/main/java/design_pattern_builder/zad3/MailServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_creational/src/main/java/design_pattern_builder/zad3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_creational/src/main/java/design_pattern_builder/zad3/MessageType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_creational/src/main/java/design_pattern_singleton/example_v1/ConfigFileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_creational/src/main/java/design_pattern_singleton/example_v1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_creational/src/main/java/design_pattern_singleton/example_v2/ConfigFileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_creational/src/main/java/design_pattern_singleton/example_v2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_creational/src/main/java/design_pattern_singleton/example_v3/ConfigFileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_creational/src/main/java/design_pattern_singleton/example_v3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_creational/src/main/java/design_pattern_singleton/example_v4/ConfigFileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_creational/src/main/java/design_pattern_singleton/example_v4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_creational/src/main/java/design_pattern_singleton/zad2/FileLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_creational/src/main/java/design_pattern_singleton/zad2/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_creational/src/main/java/design_pattern_singleton/zad2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_creational/src/main/java/design_pattern_singleton/zad2/MySettings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_creational/src/main/java/design_pattern_singleton/zad2/Round.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_exercises/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_exercises/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_exercises/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_exercises/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_exercises/src/main/java/com/javagda25/design_pattern_exercises/exercise_1/LogSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_exercises/src/main/java/com/javagda25/design_pattern_exercises/exercise_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_exercises/src/main/java/com/javagda25/design_pattern_exercises/exercise_1/ScannerContentLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_exercises/src/main/java/com/javagda25/design_pattern_exercises/exercise_composite/CEO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_exercises/src/main/java/com/javagda25/design_pattern_exercises/exercise_composite/CompanyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_exercises/src/main/java/com/javagda25/design_pattern_exercises/exercise_composite/HasChild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_exercises/src/main/java/com/javagda25/design_pattern_exercises/exercise_composite/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_exercises/src/main/java/com/javagda25/design_pattern_exercises/exercise_composite/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_exercises/src/main/java/com/javagda25/design_pattern_exercises/exercise_composite/ProjectManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_exercises/src/test/java/com/javagda25/design_pattern_exercises/exercise_1/LogSingletonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/data/LOTY1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/data/input_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/design_patterns_structural.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/src/main/java/adapter/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/src/main/java/adapter/example/IElementDomuInteligentnego.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/src/main/java/adapter/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/src/main/java/adapter/example/dom_inteligentny/Czajnik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/src/main/java/adapter/example/dom_inteligentny/CzajnikAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/src/main/java/adapter/example/dom_inteligentny/Lodowka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/src/main/java/adapter/example/dom_inteligentny/LodowkaAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/src/main/java/adapter/example/dom_inteligentny/Swiatlo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/src/main/java/adapter/example/dom_inteligentny/SwiatloAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/src/main/java/adapter/zad_3/Flight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/src/main/java/adapter/zad_3/FlightProvider_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/src/main/java/adapter/zad_3/FlightProvider_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/src/main/java/adapter/zad_3/FlightProvider_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/src/main/java/adapter/zad_3/FlightRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/src/main/java/adapter/zad_3/IFlightStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/src/main/java/adapter/zad_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/src/main/java/decorator/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/src/main/java/decorator/exampleHero/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/src/main/java/decorator/exampleHero/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/src/main/java/decorator/zad2/CustomPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/src/main/java/decorator/zad2/IPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/src/main/java/decorator/zad2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/src/main/java/decorator/zad2/Pizzeria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/src/main/java/decorator/zad2/SimplePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/src/main/java/decorator/zad4/Carriage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/src/main/java/decorator/zad4/CarriageType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/src/main/java/decorator/zad4/CustomTrain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/src/main/java/decorator/zad4/ITrain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/src/main/java/decorator/zad4/Train.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/src/main/java/decorator/zad5/DecoratedChristmasTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/src/main/java/decorator/zad5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_patterns_structural/src/main/java/decorator/zad5/SimpleChristmasTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../epam/jdbc_carshop/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../epam/jdbc_carshop/src/main/java/com/javagda25/jdbc_carshop/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../epam/jdbc_carshop/src/main/java/com/javagda25/jdbc_carshop/MysqlConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../epam/jdbc_carshop/src/main/java/com/javagda25/jdbc_carshop/MysqlConnectionParameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../epam/jdbc_carshop/src/main/java/com/javagda25/jdbc_carshop/ScannerContentLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../epam/jdbc_carshop/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_library/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_library/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_library/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_library/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_library/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_library/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_library/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_library/hibernate_library.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_library/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_library/src/main/java/com/javagda25/hibernate_library/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_library/src/main/java/com/javagda25/hibernate_library/dao/AuthorDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_library/src/main/java/com/javagda25/hibernate_library/dao/EntityDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_library/src/main/java/com/javagda25/hibernate_library/model/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_library/src/main/java/com/javagda25/hibernate_library/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_library/src/main/java/com/javagda25/hibernate_library/model/BookLent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_library/src/main/java/com/javagda25/hibernate_library/model/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_library/src/main/java/com/javagda25/hibernate_library/model/IBaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_library/src/main/java/com/javagda25/hibernate_library/utils/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_library/src/main/java/com/javagda25/hibernate_library/utils/ScannerLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_library/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_restaurant/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_restaurant/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_restaurant/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_restaurant/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_restaurant/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_restaurant/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_restaurant/hibernate_restaurant.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_restaurant/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_restaurant/src/main/java/com/javagda25/hibernate_restaurant/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_restaurant/src/main/java/com/javagda25/hibernate_restaurant/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_restaurant/src/main/java/com/javagda25/hibernate_restaurant/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_restaurant/src/main/java/com/javagda25/hibernate_restaurant/utils/EntityDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_restaurant/src/main/java/com/javagda25/hibernate_restaurant/utils/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_restaurant/src/main/java/com/javagda25/hibernate_restaurant/utils/InvoiceDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_restaurant/src/main/java/com/javagda25/hibernate_restaurant/utils/ScannerLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate_restaurant/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernatedemo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernatedemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernatedemo/src/main/java/com/javagda25/hibernatedemo/EntityDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernatedemo/src/main/java/com/javagda25/hibernatedemo/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernatedemo/src/main/java/com/javagda25/hibernatedemo/IBaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernatedemo/src/main/java/com/javagda25/hibernatedemo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernatedemo/src/main/java/com/javagda25/hibernatedemo/grade_elements/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernatedemo/src/main/java/com/javagda25/hibernatedemo/grade_elements/GradeSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernatedemo/src/main/java/com/javagda25/hibernatedemo/student_elements/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernatedemo/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http_bojanowski/symmetric_encryption/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http_bojanowski/symmetric_encryption/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http_bojanowski/symmetric_encryption/src/main/java/com/javagda25/symmetric_encryption/EncryptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http_bojanowski/symmetric_encryption/src/main/java/com/javagda25/symmetric_encryption/EncryptionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jspdemo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jspdemo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jspdemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jspdemo/src/main/java/com/javagda25/jspdemo/controller/GradeAddServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jspdemo/src/main/java/com/javagda25/jspdemo/controller/GradeListServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jspdemo/src/main/java/com/javagda25/jspdemo/controller/StudentAddServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jspdemo/src/main/java/com/javagda25/jspdemo/controller/StudentDeleteServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jspdemo/src/main/java/com/javagda25/jspdemo/controller/StudentEditServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jspdemo/src/main/java/com/javagda25/jspdemo/controller/StudentListServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jspdemo/src/main/java/com/javagda25/jspdemo/database/EntityDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jspdemo/src/main/java/com/javagda25/jspdemo/database/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jspdemo/src/main/java/com/javagda25/jspdemo/model/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jspdemo/src/main/java/com/javagda25/jspdemo/model/GradeSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jspdemo/src/main/java/com/javagda25/jspdemo/model/IBaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jspdemo/src/main/java/com/javagda25/jspdemo/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jspdemo/src/main/java/com/javagda25/jspdemo/services/GradeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jspdemo/src/main/java/com/javagda25/jspdemo/services/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jspdemo/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jspdemo/src/main/webapp/grade-add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jspdemo/src/main/webapp/grade-list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jspdemo/src/main/webapp/navigator.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jspdemo/src/main/webapp/student-add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jspdemo/src/main/webapp/student-list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jspdemo/src/main/webapp/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rekurencje/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rekurencje/src/main/java/new_shit_from_Pawel/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rekurencje/src/main/java/new_shit_from_Pawel/trial/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rekurencje/src/main/java/old_shit_from_Marcin/searching/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rekurencje/src/main/java/old_shit_from_Marcin/sorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rekurencje/src/main/java/old_shit_from_Marcin/sorting/CountingSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rekurencje/src/main/java/old_shit_from_Marcin/sorting/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rekurencje/src/main/java/old_shit_from_Marcin/sorting/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rekurencje/src/main/java/old_shit_from_Marcin/sorting/MainSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rekurencje/src/main/java/old_shit_from_Marcin/sorting/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rekurencje/src/main/java/old_shit_from_Marcin/sorting/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rekurencje/src/main/java/old_shit_from_Marcin/trees/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rekurencje/src/main/java/old_shit_from_Marcin/trees/BSTNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rekurencje/src/main/java/old_shit_from_Marcin/trees/MainBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servers_lotteryAgent/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servers_lotteryAgent/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servers_lotteryBoss/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servers_lotteryBoss/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servers_lotteryBoss/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servers_lotteryBoss/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servers_lotteryBoss/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servers_lotteryBoss/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servers_lotteryBoss/src/main/java/com/javagda25/lotteryBoss/AppRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servers_lotteryBoss/src/main/java/com/javagda25/lotteryBoss/NumberGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servers_lotteryBoss/src/main/java/com/javagda25/lotteryBoss/Results.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servers_lotteryBoss/src/main/java/com/javagda25/lotteryBoss/WinningNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spartez/interviews/eventsystem/impl/BasicEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spartez/interviews/eventsystem/impl/BasicListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_pawel/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_pawel/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_pawel/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_pawel/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_pawel/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_pawel/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_pawel/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_pawel/src/main/java/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_pawel/test_pawel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../threading/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../threading/src/main/java/com/javagda25/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tomcat_demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tomcat_demo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tomcat_demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tomcat_demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tomcat_demo/src/main/java/com/javagda25/tomcat_demo/FirstServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tomcat_demo/src/main/java/com/javagda25/tomcat_demo/SecondServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tomcat_demo/src/main/java/com/javagda25/tomcat_demo/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tomcat_demo/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadania_finalne/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadania_finalne/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadania_finalne/src/main/java/zad1/Loader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadania_finalne/src/main/java/zad1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadania_finalne/src/main/java/zad2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadania_finalne/src/main/java/zad3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadania_finalne/src/main/java/zad3/MixedWordsException.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="eventsystem" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/spartez/interviews/eventsystem/EventManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="70" selection-start-line="27" selection-start-column="70" selection-end-line="27" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/spartez/interviews/eventsystem/impl/SimpleEventManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+              <folding>
+                <element signature="e#953#954#0" expanded="true" />
+                <element signature="e#1015#1016#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/spartez/interviews/eventsystem/impl/BasicListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/spartez/interviews/eventsystem/EventListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/spartez/interviews/eventsystem/impl/BasicEvent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/spartez/interviews/eventsystem/EventListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/spartez/interviews/eventsystem/impl/BasicEvent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/spartez/interviews/eventsystem/impl/BasicListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/spartez/interviews/eventsystem/EventManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/spartez/interviews/eventsystem/impl/SimpleEventManager.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="190" />
+    <option name="y" value="84" />
+    <option name="width" value="3696" />
+    <option name="height" value="1922" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="eventsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spartez_test_vol2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eventsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spartez_test_vol2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eventsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spartez_test_vol2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eventsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spartez_test_vol2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eventsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spartez_test_vol2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="eventsystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eventsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spartez_test_vol2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="eventsystem" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a35725ba-fcb2-466b-8319-9fa90c90a9c7" name="Default Changelist" comment="" />
+      <created>1570404115038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570404115038</updated>
+      <workItem from="1570404117763" duration="936000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="936000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="95" y="42" width="1848" height="961" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" sideWeight="0.5006017" side_tool="true" weight="0.24972068" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49939832" visible="true" weight="0.24972068" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32972324" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spartez/interviews/eventsystem/EventListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spartez/interviews/eventsystem/EventManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="70" selection-start-line="27" selection-start-column="70" selection-end-line="27" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spartez/interviews/eventsystem/impl/BasicEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spartez/interviews/eventsystem/impl/BasicListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spartez/interviews/eventsystem/impl/SimpleEventManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="e#953#954#0" expanded="true" />
+            <element signature="e#1015#1016#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
